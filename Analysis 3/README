@@ -1,0 +1,11 @@
+the batch files in this directory creates the data reported in the paper.
+
+runpinechimot.phase ==> Replication of Pine et al. 2013. Compares childrens' overlap by phase against the mother's full corpus.  (Table 3)
+
+runpinechimot.all ==> Compares childrens' overlap in their full corpus against the mother's full corpus. (Table 4)
+
+runpinemotmot.phase ==> Compares mother's overlap by phase--a la Pine et al.--against their own full corpus. (Table 6)
+
+runpinemotmot.random ==> Compares mother's random 50% corpus against their own full corpus. (Table 6)
+
+Due to the stochastic nature of the sampling scheme, every run will produce slightly different values but these do not affect the statistical significance of the results.

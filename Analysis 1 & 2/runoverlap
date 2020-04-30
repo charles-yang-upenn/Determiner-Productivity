@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Mot Mn Ms Mb Mr Mo Me Chi Cn Cs Cb Cr Co Ce"; for f in ../data/*.cha; do overlap.py $f; done

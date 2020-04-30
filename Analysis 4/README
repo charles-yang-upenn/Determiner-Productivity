@@ -1,0 +1,9 @@
+To generate Table 5, go to each subdirectory (bloom and mac)
+
+Each comparison between "child" and "mother" requires the creation of the masterlist, in the respective folders.
+
+to run Pine et al. 2013 method, use the pine.py code in Analysis 3
+
+pine.py CHA-FILE   100	ID1 ID2 P
+
+e.g., pine.py mac.cha 100 MOT FAT P gives the overlap comparison between MOT and FAT by phase, averaging results over 100 simulations

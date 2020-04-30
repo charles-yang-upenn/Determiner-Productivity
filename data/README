@@ -1,0 +1,3 @@
+Run fixpine.py to fix some linebreaking issues
+
+cat all .cha files to create a single one; run create_masterlist.py on it creates a masterlist of nouns used for Pine et al. methods (described in Analysis 3): masterlist.txt

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Mother M1 M2 M3 M4 M5 M6 M7 M8 Child C1 C2 C3 C4 C5 C6 C7 C8"; for f in ../data/*.cha; do controlfreq.py $f; done

@@ -1,0 +1,2 @@
+#!/bin/bash
+for f in ../data/*.cha; do pinebias-chi.py $f; done

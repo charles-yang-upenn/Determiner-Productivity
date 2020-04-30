@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Child P N S B R Co Eo"; for f in ../data/*.cha; do overlap_phase.py $f; done

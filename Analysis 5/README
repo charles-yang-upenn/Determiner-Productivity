@@ -1,0 +1,7 @@
+All analyses here are deterministic: either empirical statistics from the corpora or formal mathematical calculations
+
+runpineclump produces Table 5, a measure of clumpiness of nouns when divided by phase
+
+runpinebias-chi produces Table 8 and 9: it calculates the avarege noun bias and frequency in the child phase one data against mother full corpus, and then computes the expected values of o(b, f) and O(B, F), defined in the text. It also does the same for child full corpus against mother full corpus.
+
+runpinebias-mot produces Table 8 and 9: same as above, but for mother phase one corpus against her own full corpus, and then mother random 50% corpus against her own full corpus

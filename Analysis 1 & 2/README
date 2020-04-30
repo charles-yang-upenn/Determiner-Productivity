@@ -1,0 +1,7 @@
+run three "run" scripts to generate data for Fig 1, Table 1, and Table 2.
+
+runcontrolfreq replicates Valian et al. (2009). It compares nouns' overlap values as a function of its frequency (Fig 1)
+
+runoverlap replicates Yang (2013). It compares the expected overlap value against the empirical overlap value for all 12 children and their mothers. (Table 1)
+
+runoverlap_phase compares the expected overlap value against the empirical overlap value for all 12 children in their phase one (a la Pine et al. 2013, see Analysis 3)

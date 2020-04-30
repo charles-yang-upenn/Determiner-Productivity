@@ -1,0 +1,5 @@
+#!/bin/bash
+# should probably run more samples--but Pine et al. 2013 say 100
+# child-phase against mother-all (i.e., replication of Pine et al. 2013)
+
+echo "Chi Phase BiasChi OChi TTR AverageF MedianF Mot BiasMot OMot AverageF MediaF"; for f in ../data/*.cha; do pine.py $f 100 CHI MOT P; done

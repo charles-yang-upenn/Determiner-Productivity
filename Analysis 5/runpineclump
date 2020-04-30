@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "child top freq b1 b2 b3 b4 b5 ball"; for f in ../data/*.cha; do pineclump.py $f; done
